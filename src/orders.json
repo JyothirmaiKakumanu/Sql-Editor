@@ -1,0 +1,37 @@
+[
+    {
+        "orderID":10248,
+        "customerID":"VINET",
+        "employeeID":5,
+        "orderDate":"1996-07-04 00:00:00.000",
+        "requiredDate":"1996-08-01 00:00:00.000",
+        "shippedDate":"1996-07-16 00:00:00.000",
+        "shipVia":3,
+        "freight":32.38,
+        "shipName":"Vins et alcools Chevalier",
+        "shipAddress":"59 rue de l'Abbaye",
+        "shipCity":"Reims",
+        "shipRegion":"NULL",
+        "shipPostalCode":"51100",
+        "shipCountry":"France"
+
+    },
+    {
+        "orderID":10249,
+        "customerID":"TOMSP",
+        "employeeID":6,
+        "orderDate":"1996-07-05 00:00:00.000",
+        "requiredDate":"1996-08-16 00:00:00.000",
+        "shippedDate":"1996-07-10 00:00:00.000",
+        "shipVia":1,
+        "freight":11.61,
+        "shipName":"Toms Spezialitäten",
+        "shipAddress":"Luisenstr. 48",
+        "shipCity":"Münster",
+        "shipRegion":"NULL",
+        "shipPostalCode":"44087",
+        "shipCountry":"Germany"
+
+    }
+
+]

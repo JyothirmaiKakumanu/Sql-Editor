@@ -1,0 +1,22 @@
+[
+    {
+        "territoryID":"01581",
+        "territoryDescription":"Westboro",
+        "regionID":1
+    },
+    {
+        "territoryID":"60179",
+        "territoryDescription":"HoffmanEstates",
+        "regionID":2
+    },
+    {
+        "territoryID":"55439",
+        "territoryDescription":"Minneapolis",
+        "regionID":3
+    },
+    {
+        "territoryID":"78759",
+        "territoryDescription":"Austin",
+        "regionID":4
+    }
+]

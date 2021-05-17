@@ -1,0 +1,26 @@
+[
+    {
+        "employeeID":1,
+        "territoryID":"06897"
+    },
+    {
+        "employeeID":1,
+        "territoryID":"19713"
+    },
+    {
+        "employeeID":2,
+        "territoryID":"01581"
+    },
+    {
+        "employeeID":2,
+        "territoryID":"02139"
+    },
+    {
+        "employeeID":3,
+        "territoryID":"31406"
+    },
+    {
+        "employeeID":4,
+        "territoryID":"20852"
+    }
+]

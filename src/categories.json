@@ -1,0 +1,46 @@
+[
+    {
+        "categoryID": 1,
+        "categoryName": "Beverages",
+        "description": "Soft drinks coffees teas beers and ales"
+    },
+
+    {
+        "categoryID": 2,
+        "categoryName": "Condiments",
+        "description": "Soft drinks coffees teas beers and ales"
+    },
+
+    {
+        "categoryID": 3,
+        "categoryName": "Confections",
+        "description": "Soft drinks coffees teas beers and ales"
+    },
+
+    {
+        "categoryID": 4,
+        "categoryName": "Dairy Products",
+        "description": "Soft drinks coffees teas beers and ales"
+    },
+
+    {
+        "categoryID": 5,
+        "categoryName": "Grains/Cereals",
+        "description": "Soft drinks coffees teas beers and ales"
+    },
+    {
+        "categoryID": 6,
+        "categoryName": "Meat/Poultry",
+        "description": "Soft drinks coffees teas beers and ales"
+    },
+    {
+        "categoryID": 7,
+        "categoryName": "Produce",
+        "description": "Soft drinks coffees teas beers and ales"
+    },
+    {
+        "categoryID": 8,
+        "categoryName": "Seafood",
+        "description": "Soft drinks coffees teas beers and ales"
+    }
+]

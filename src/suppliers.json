@@ -1,0 +1,30 @@
+[
+    {
+        "supplierID":1,
+        "companyName":"Exotic Liquids",
+        "contactName":"Charlotte Cooper",
+        "contactTitle":"Purchasing Manager",
+        "address":"49 Gilbert St.",
+        "city":"London",
+        "region":"NULL",
+        "postalCode":"EC1 4SD",
+        "country":"UK",
+        "phone":"(171) 555-2222",
+        "fax":"NULL",
+        "homePage":"NULL"
+    },
+    {
+        "supplierID":2,
+        "companyName":"New Orleans Cajun Delights",
+        "contactName":"Shelley Burke",
+        "contactTitle":"Order Administrator",
+        "address":"P.O. Box 78934",
+        "city":"New Orleans",
+        "region":"LA",
+        "postalCode":"70117",
+        "country":"USA",
+        "phone":"(100) 555-4822",
+        "fax":"NULL",
+        "homePage":"#CAJUN.HTM#"
+    }
+]

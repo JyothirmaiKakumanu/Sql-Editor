@@ -1,0 +1,41 @@
+[
+    {
+        "employeeID":1,
+        "lastName":"Davolio",
+        "firstName":"Nancy",
+        "title":"Sales Representative",
+        "titleOfCourtesy":"Ms.",
+        "birthDate":"1948-12-08 00:00:00.000",
+        "hireDate":"1992-05-01 00:00:00.000",
+        "address":"507 20th Ave. E. Apt. 2A",
+        "city":"Seattle",
+        "region":"WA",
+        "postalCode":"98122",
+        "country":"USA",
+        "homePhone":"(206) 555-9857",
+        "extension":"5467",
+        "notes":"Education includes a BA in psychology from Colorado State University in 1970. She also completed The Art of the Cold Call. Nancy is a member of Toastmasters International.",
+        "reportsTo":2,
+        "photoPath":"http://accweb/emmployees/davolio.bmp"
+    },
+
+    {
+        "employeeID":2,
+        "lastName":"Fuller",
+        "firstName":"Andrew",
+        "title":"Vice President Sales",
+        "titleOfCourtesy":"Dr.",
+        "birthDate":"1952-02-19 00:00:00.000",
+        "hireDate":"1992-08-14 00:00:00.000",
+        "address":"908 W. Capital Way",
+        "city":"Tacoma",
+        "region":"WA",
+        "postalCode":"98401",
+        "country":"USA",
+        "homePhone":"(206) 555-9482",
+        "extension":"3457",
+        "notes":"Andrew received his BTS commercial in 1974 and a Ph.D. in international marketing from the University of Dallas in 1981. He is fluent in French and Italian and reads German. He joined the company as a sales representative was promoted to sales manager",
+        "reportsTo":"NULL",
+        "photoPath":"http://accweb/emmployees/fuller.bmp"
+    }
+]
