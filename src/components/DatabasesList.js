@@ -18,7 +18,6 @@ const DatabasesList = () => {
             <div className="editor-body">
                 <div className="databases">
                     <div className="searchBox">
-                        <input placeholder="Search" />
                         <div className="tables">
                             <p>Tables</p>
                             <TableNames parentCallBack={handleCallBack}
